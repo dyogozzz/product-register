@@ -2,22 +2,10 @@ Product CRUD Application
 
 This is a simple CRUD (Create, Read, Update, Delete) application for managing products. The project consists of a React frontend and a NestJS backend using Prisma as the ORM. The UI allows users to create, view, edit, and delete products, while the backend handles the database operations through Prisma.
 
-Features
-Create Product: Add new products by providing a name, description, and price.
-Read Products: View a list of all products.
-Update Product: Edit the details of an existing product.
-Delete Product: Remove a product from the list.
-Tech Stack
-Frontend: React (using useState, useEffect)
-Backend: NestJS with Prisma ORM
-Styling: Tailwind CSS for simple styling
-Installation
-Backend Setup (NestJS + Prisma)
-
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/dyogozzz/product-register.git
+cd product-register
 ```
 
 2. Install backend dependencies:
